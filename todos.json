@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "task": "Alışveriş yap"
+  },
+  {
+    "id": 2,
+    "task": "E-postaları kontrol et"
+  },
+  {
+    "id": 3,
+    "task": "Köpeği gezdir"
+  },
+  {
+    "id": 4,
+    "task": "Ders çalış"
+  },
+  {
+    "id": 5,
+    "task": "Yemek yap"
+  }
+]
